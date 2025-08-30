@@ -11,15 +11,19 @@
   "dependencies": {
     "next": "15.5.2",
     "qrcode": "^1.5.4",
+    "qrcode-generator": "^2.0.4",
+    "qrcode.react": "^4.2.0",
     "react": "19.1.0",
     "react-dom": "19.1.0",
     "react-hot-toast": "^2.6.0",
-    "react-icons": "^5.5.0"
+    "react-icons": "^5.5.0",
+    "react-qr-code": "^2.0.18"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
+    "@types/qrcode": "^1.5.5",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
